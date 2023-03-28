@@ -1,2 +1,1 @@
-Project task
-Vidzapurity254
+Group project prinntf done by Vidzapurity254 from scratch
